@@ -1,0 +1,15 @@
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\Labirint.exe
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\Snake.exe
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\Labirint.pdb
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\Labirint.exe.config
+E:\тп\Menu\WindowsFormsApp1\bin\Debug\Snake.pdb
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\Menu.csprojResolveAssemblyReference.cache
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.GenerateResource.Cache
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\тп\Menu\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Menu.resources

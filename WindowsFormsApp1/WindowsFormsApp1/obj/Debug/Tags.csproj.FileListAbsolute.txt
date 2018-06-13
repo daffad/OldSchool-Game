@@ -1,0 +1,10 @@
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tags.csprojResolveAssemblyReference.cache
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tags.resources
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tags.csproj.GenerateResource.Cache
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Tags.csproj.CoreCompileInputs.cache
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\тп\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
